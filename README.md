@@ -4,6 +4,7 @@
 Here, we compared two time-series differential expression tools – GPcounts, which utilises a negative-binomial Gaussian Process framework, and maSigPro, which applies polynomial regression – to analyse noisy RNA-seq data from mice under stress conditions. GPcounts is implemented in Python using TensorFlow and GPflow. maSigPro is implemented using R. 
 Further details for each package can be found in their respective repositories:
 https://github.com/ManchesterBioinference/GPcounts
+
 https://github.com/mjnueda/maSigPro
 
 ## Repository Structure
